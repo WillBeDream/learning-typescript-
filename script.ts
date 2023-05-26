@@ -1,4 +1,3 @@
-
 function isPalindrome(word:string): boolean {
     let j = word.length-1;
     for(let i = 0; i < word.length; i++) {
